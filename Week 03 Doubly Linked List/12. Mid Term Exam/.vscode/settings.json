@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "new": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "forward_list": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "valarray": "cpp",
+    "bitset": "cpp",
+    "utility": "cpp"
+  }
+}
